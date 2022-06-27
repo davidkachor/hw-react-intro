@@ -11,18 +11,16 @@ function Section(props) {
 				<p>
 					Lviv Polytechnic National University, IPPO, psychology 2019 - present
 				</p>
-				<p>
-					EPAM University Program 21.11.2021 - 16.02.2022
-				</p>
+				<p>EPAM University Program 21.11.2021 - 16.02.2022</p>
 			</InfoSection>
-            <InfoSection title={'CONTACTS'}>
+			<InfoSection title={'CONTACTS'}>
 				<p>Lviv, Ukraine</p>
 				<p>E-mail: example.david@example.com</p>
 				<p>Phone number: +380 93 86 622 96</p>
 				<a href="https://t.me/davyd_kaczor">Telegram</a>
 				<a href="https://github.com/davidkachor">GitHub</a>
 				<a href="https://www.linkedin.com/in/davyd-kachor/">LinkedIn</a>
-            </InfoSection>
+			</InfoSection>
 		</section>
 	)
 }
