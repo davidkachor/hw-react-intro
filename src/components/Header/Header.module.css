@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 70px;
+    text-align: center;
+    color: #460000;
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+.position {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+
+}
